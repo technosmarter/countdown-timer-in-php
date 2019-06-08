@@ -19,3 +19,13 @@ Reference for this PHP module - <br>
 2. <a href="https://technosmarter.com/php/PHP-include-function.html">Include() function in php  </a>.<br>
 3. <a href="https://technosmarter.com/php/php-sign-up-form.html"> Registration form using PHP and MYSQL databse</a>.<br>
 4.<a href="https://technosmarter.com/php/PHP-Update-data-in-database-mysql-update-query.html">Update data in MYSQL database using PHP and MYSQL database </a>.
+
+
+Features of Countdown timer - 
+1. Change new time 
+2. A dynamic coundown timer . 
+3.Time continue. 
+4. Add more time and date. 
+5. Date show . 
+6. Update . 
+7. Simple with better resource. 
